@@ -8,11 +8,11 @@ In this project, I delved into the dataset of an online music store to extract m
 
 🔧 Skills Covered:
 
-SQL Fundamentals: Basic querying, sorting, and filtering of data.
-Data Analysis: Aggregating and summarizing data to derive actionable insights.
-Joins and Relationships: Utilizing various types of joins to connect tables and retrieve relevant information.
-Subqueries and CTEs: Leveraging subqueries and Common Table Expressions (CTEs) for complex data manipulation.
-Window Functions: Utilizing window functions to perform advanced analytics and ranking operations.
-Performance Optimization: Writing efficient queries to handle large datasets effectively.
+=> SQL Fundamentals: Basic querying, sorting, and filtering of data.
+=> Data Analysis: Aggregating and summarizing data to derive actionable insights.
+=> Joins and Relationships: Utilizing various types of joins to connect tables and retrieve relevant information.
+=> Subqueries and CTEs: Leveraging subqueries and Common Table Expressions (CTEs) for complex data manipulation.
+=> Window Functions: Utilizing window functions to perform advanced analytics and ranking operations.
+=> Performance Optimization: Writing efficient queries to handle large datasets effectively.
 
 This project not only demonstrates my SQL proficiency but also showcases my ability to translate raw data into actionable insights, a crucial skill in the data analysis field.
